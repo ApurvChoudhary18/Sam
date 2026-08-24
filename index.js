@@ -1,0 +1,1 @@
+console.log("envsync CLI is coming soon ");
