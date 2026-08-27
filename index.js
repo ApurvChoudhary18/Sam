@@ -1,1 +1,1 @@
-console.log("envsync CLI is coming this September ");
+console.log("envsync CLI is coming this September !!");
