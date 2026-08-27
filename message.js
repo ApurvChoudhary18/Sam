@@ -1,0 +1,1 @@
+console.log("Sam CLI is on its way folks..");
