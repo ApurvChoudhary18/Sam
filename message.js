@@ -1,1 +1,1 @@
-console.log("Sam CLI is on its way folks......");
+console.log("Sam CLI is on its way folks.....");
